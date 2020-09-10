@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ECom Reports", "ECom Reports\ECom Reports.rptproj", "{DECF8DD4-EE69-4816-9D40-D74A1756D208}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECF8DD4-EE69-4816-9D40-D74A1756D208}.Debug|Default.ActiveCfg = Debug
+		{DECF8DD4-EE69-4816-9D40-D74A1756D208}.Debug|Default.Build.0 = Debug
+		{DECF8DD4-EE69-4816-9D40-D74A1756D208}.Debug|Default.Deploy.0 = Debug
+		{DECF8DD4-EE69-4816-9D40-D74A1756D208}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{DECF8DD4-EE69-4816-9D40-D74A1756D208}.DebugLocal|Default.Build.0 = DebugLocal
+		{DECF8DD4-EE69-4816-9D40-D74A1756D208}.Release|Default.ActiveCfg = Release
+		{DECF8DD4-EE69-4816-9D40-D74A1756D208}.Release|Default.Build.0 = Release
+		{DECF8DD4-EE69-4816-9D40-D74A1756D208}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9FB727-E9C9-4FB3-A0F7-AD54EFFB5A8A}
+	EndGlobalSection
+EndGlobal
