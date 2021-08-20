@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Zendesk">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=s-dw1;Initial Catalog=Zendesk</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>0108167d-f33a-4957-b9c0-97c705042f8c</DataSourceID>
+</RptDataSource>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ShopifyDB">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=s-dw;Initial Catalog=ECom</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>2ab502d0-4a66-4020-a605-31573c266336</DataSourceID>
+</RptDataSource>

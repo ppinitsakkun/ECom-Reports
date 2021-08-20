@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="S-ERPServer">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=S-ERP\DYNAMICSGP;Initial Catalog=HHHNL</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>ad13b387-7287-412b-896f-4447d337837e</DataSourceID>
+</RptDataSource>
